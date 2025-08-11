@@ -1,0 +1,4 @@
+.env
+submissions.csv
+__pycache__/
+*.pyc
